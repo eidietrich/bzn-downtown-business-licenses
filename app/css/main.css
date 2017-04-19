@@ -1,0 +1,37 @@
+
+.address-row {
+  display: block;
+}
+
+.biz-name {
+  /*position: relative;*/
+}
+
+p.address {
+  font-weight: bold;
+}
+
+.biz-group {
+  /*float: left;*/
+}
+
+.biz-name {
+  font-size: 10px;
+}
+
+svg.biz-canvas {
+  display: inline-block;
+  /*float: left;*/
+}
+
+.downtown-block:hover{
+  stroke: black;
+  stroke-width: 2px;
+}
+
+th {
+  width: 33%;
+}
+td {
+  font-size: 10px;
+}
